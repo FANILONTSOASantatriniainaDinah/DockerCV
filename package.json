@@ -1,0 +1,9 @@
+{
+    "scripts" : {
+        "start": "npx http-server -p 80"
+    },
+    "dependencies" : {
+        "http-server": "14.1.1"
+    }
+
+}
